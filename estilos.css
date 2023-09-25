@@ -9,7 +9,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgb(233, 47, 62);
+    background: -webkit-linear-gradient(135deg, #b539de 0%, #16c8d4 100%);
 }
 .container { 
     display: flex;
